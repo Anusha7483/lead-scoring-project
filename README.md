@@ -29,3 +29,9 @@ Model Performance Benchmarking
 Model Performance Evaluation
 Cross Validation + Hyperparameter Tuning
 Model Diagnosis Using Probability Calibration, ROC AUC Curve, Precision-Recall Curve
+
+project partner:
+*Adesh sonar
+*Kishore K C U
+*Anusha G
+
